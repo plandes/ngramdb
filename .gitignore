@@ -1,0 +1,6 @@
+*.pyc
+*_flymake.py
+/target
+/*.log
+/data
+/nohup.out
