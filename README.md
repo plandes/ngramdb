@@ -2,6 +2,7 @@
 
 [![Travis CI Build Status][travis-badge]][travis-link]
 [![PyPI][pypi-badge]][pypi-link]
+[![Python 3.6][python36-badge]][python36-link]
 
 Creates an SQLite database of the one million [n-gram] datasets from Google.
 This code downloads the [n-gram data sets] corpus and then creates an [SQLite]
@@ -204,6 +205,8 @@ SOFTWARE.
 [pypi]: https://pypi.org/project/zensols.ngramdb/
 [pypi-link]: https://pypi.python.org/pypi/zensols.ngramdb
 [pypi-badge]: https://img.shields.io/pypi/v/zensols.ngramdb.svg
+[python36-link]: https://www.python.org/downloads/release/python-360
+[python36-badge]: https://img.shields.io/badge/python-3.6-blue.svg
 
 [n-gram data sets]: http://storage.googleapis.com/books/ngrams/books/datasetsv2.html
 [n-gram]: https://en.wikipedia.org/wiki/N-gram
