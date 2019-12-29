@@ -1,6 +1,5 @@
 # Create an SQLite database from the Google ngrams database.
 
-[![Travis CI Build Status][travis-badge]][travis-link]
 [![PyPI][pypi-badge]][pypi-link]
 [![Python 3.6][python36-badge]][python36-link]
 
@@ -200,8 +199,6 @@ SOFTWARE.
 
 
 <!-- links -->
-[travis-link]: https://travis-ci.org/plandes/ngramdb
-[travis-badge]: https://travis-ci.org/plandes/ngramdb.svg?branch=master
 [pypi]: https://pypi.org/project/zensols.ngramdb/
 [pypi-link]: https://pypi.python.org/pypi/zensols.ngramdb
 [pypi-badge]: https://img.shields.io/pypi/v/zensols.ngramdb.svg
